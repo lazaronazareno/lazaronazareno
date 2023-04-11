@@ -20,12 +20,19 @@
   <img src = "https://img.shields.io/badge/React-5adafd?style=for-the-badge&logo=react&logoColor=000000" alt = "react" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   <img src = "https://img.shields.io/badge/NodeJS-7cc327?style=for-the-badge&logo=Node.js&logoColor=000000" alt = "node js" />
+  </br></br>
+  <img src = "https://img.shields.io/badge/mongoDB-12a54f?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
+  <img src = "https://img.shields.io/badge/MySql-e68a10?style=for-the-badge&logo=mysql&logoColor=000000" alt = "mysql" />
   
 - <h5> currently learning </h5>
-  <img src = "https://img.shields.io/badge/MySql-e68a10?style=for-the-badge&logo=mysql&logoColor=000000" alt = "mysql" />
-  <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+  <img src = "https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=red" alt = "java" />
   <img src = "https://img.shields.io/badge/vuejs-3eaf7c?style=for-the-badge&logo=vue.js&logoColor=white" alt = "vue js" />
   
   </br></br>
+  
+- <h3>webpage</h3>
+  <a href="https://lazaro-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src = "https://img.shields.io/badge/portfolio-12a54f?style=social&logo=googlechrome" alt = "link" />
+  </a>
   
   </div>
