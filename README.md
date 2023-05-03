@@ -1,5 +1,3 @@
-<p align = center ><img src="https://media.licdn.com/dms/image/C4D16AQGRjTZDdgMTpg/profile-displaybackgroundimage-shrink_350_1400/0/1649076710954?e=1686787200&v=beta&t=sAq-x19Oh5I9gkZHxdgfCyKA2MMn2sONI1al424FRK4"> </p>
-
 <div>
 
 <img align="right" width="400" alt="coding" src="https://w0.peakpx.com/wallpaper/970/251/HD-wallpaper-coding-code-sayings-science.jpg"/>
