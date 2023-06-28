@@ -4,9 +4,10 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently searching jobs on **web-development**
-- 💀 mostly working on **courses and IA projects**
-- 👾 a **student** working his way around things
+- ⭐ Currently searching jobs on **web-development**
+- 👾 Curious, creative, self-taught.
+- ✨ I build digital experiences for the web. Focused on creating aesthetically appealing and user accessible applications.
+- 💻 Experience working in teams and creating landing pages.
   
 <h2> / current skills / </h2>
   
@@ -28,9 +29,12 @@
   
   </br></br>
   
-- <h3>webpage</h3>
+- <h3>Links</h3>
   <a href="https://lazaro-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src = "https://img.shields.io/badge/portfolio-12a54f?style=social&logo=googlechrome" alt = "link" />
+  </a>
+  <a href="https://www.linkedin.com/in/lazaro-vega-sanchez/" target="_blank" rel="noopener noreferrer">
+    <img src = "https://img.shields.io/badge/linkedin-12a54f?style=social&logo=linkedin" alt = "link" />
   </a>
   
   </div>
